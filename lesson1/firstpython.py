@@ -76,13 +76,12 @@ e = 13
 print((a-e**(b/d))%c)
 """
 
-"""
-qwerty = 33.
-cv = 33.
-nm = 33.
 
-print (qwerty+cv*nm)
-"""
+# qwerty = 33.4
+# cv = 33.4
+# nm = 33.1
+
+# print (qwerty+cv*nm)
 
 
 

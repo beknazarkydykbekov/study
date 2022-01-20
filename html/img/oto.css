@@ -1,0 +1,262 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+.all{
+    display: flex;
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    color: black;
+    list-style-type: none;
+    width: 25%;
+    position: absolute;
+    margin-left: 10%;
+}
+.phonecall{
+    width: 15%;
+    display: flex;
+    position: absolute;
+    margin-left: 80%;
+}
+.icon{
+    width: 15px;
+    height: 15px;
+}
+.pphh{
+    display: block;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.title h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 250px;
+    font-style: italic;
+}
+.pphh p{
+    font-size: 40px;
+    font-style: italic;
+    margin-left: 60%;
+    margin-top: 0mm;
+
+}
+.title{
+    position: relative;
+    width: 100%;
+}
+.main{
+    width: 100%;
+}
+#carouselExampleControls{
+    width: 60%;
+}
+.fairy1 h2{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    color: #E2AB3F;
+    margin-left: 25%;
+}
+.fairy1 p{
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: -2%;
+}
+.fairy2 p{
+    font-size: 11px;
+    text-align: left;
+}
+.fairy2{
+    width: 40%;
+    margin-left: 50%;
+    margin-top:-38%;
+}
+.fairy{
+    display: flex;
+    justify-content: space-between;
+}
+.trip{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.trip1{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#carouselExampleIndicators{
+    width: 100%;
+}
+.trip2{ 
+margin-left: 50%;
+margin-top: -50%;
+}
+.trip1 h2{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    color: #E2AB3F;
+}
+.trip1 p{
+    font-size: 12px;
+    text-align: left;
+}
+.Map{
+    margin-left: 35%;
+    font-size: 150px;
+    margin-top: -2%;
+}
+.Hotel{
+    margin-top: 10%;
+    width: 100%;
+}
+.col{
+    width: 50%;
+}
+.Hotelw h2{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    color: #E2AB3F;
+    margin-left: 10%;
+}
+.Hotelw p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-top: -2%;
+}
+.price{
+    margin-top: 5%;
+}
+.price h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    color: #E2AB3F;
+    margin-left: 10%;
+}
+.price p{
+    font-size: 12px;
+    text-align: left;
+}
+.pricep{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    margin-left: 20%;
+    margin-top: -2%;
+    margin-bottom: 5%;
+}
+.col-sm{
+    width: 30%;
+}
+.shariki{
+    width: 100%;
+    margin-top: -35%;
+}
+.sharik3{
+margin-left: 10%;
+margin-top: -10%;
+}
+.hotelimg1 {
+    margin: 15px 12px 10px 0;
+}
+.end{
+    width: 90%;
+    margin-top: 5%;
+}
+.end h2{
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    color: #E2AB3F;
+    text-align: center;
+    margin-top: 20%;
+}
+.p-3{
+    background-color: white;
+}
+.btour{
+    font-size: 15px;
+    text-align: center;
+    margin-top: -3%;
+    margin-left: 30%;
+}
+.bprice{
+    font-size: 15px;
+    text-align: center;
+    margin-top: -4%;
+    margin-left: 30%;
+}
+.application{
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+input[type]{
+    width: 280px;
+    margin-left: 26%;
+    border: 1.5px solid #E2AB3F;  
+}
+.btn-outline-warning{
+    margin-left: 33%;
+}
+.footerimg{
+    width: 100%;
+}
+footer {
+    position: relative;
+    margin-top: 5%;
+}
+.sharb2{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 23%;
+    width: 300px;
+}
+.shardreams{
+    font-family: 'Great Vibes', cursive;
+    font-size: 75px;
+    position: absolute;
+    top: 26%;
+    left: 52%;
+}
+.sharc{
+    font-family: 'Great Vibes', cursive;
+    font-size: 75px;
+    color: #E2AB3F;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 26%;
+    z-index: 3;
+}
+.sharb1{
+    display: block;
+    position: absolute;
+    top: 26%;
+    left: 26%;
+    z-index: 3;
+
+}
+.phonecal{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+.email{
+    display: flex;
+    margin-top: -5%;
+}
+.socials{
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+.social{
+    width: 25px;
+    height: 25px; 
+}

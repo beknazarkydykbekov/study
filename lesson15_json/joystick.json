@@ -1,0 +1,11 @@
+[
+    {
+        "user": {
+            "login": "admin",
+            "email": "admin@gmail.com",
+            "age": 19,
+            "phone": 3843939430,
+            "language": "python"
+        }
+    }
+]

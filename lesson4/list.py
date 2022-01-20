@@ -68,11 +68,26 @@ print(a[::])
 
 
 
+# num = int(input("Введите число: "))
+# numbers = []
+# letters = []
+
+# if num:
+#     numbers.append(num)
+
+# print(numbers)
+
+# let = input("Введите слово: ")
+
+# if let:
+#     letters.append(let)
+# print(letters)
 
 
 
 
-
+# a = ['Jack', 'Jimmy', 'Oscar', 'Jackson', 'Jhon', 'Jack', 'Jimmy', 'Jackson', 'Jhon', 'Jack', 'Jimmy', 'Jackson',]
+# print(a[0:3])
 
 
 
